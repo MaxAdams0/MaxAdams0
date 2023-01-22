@@ -9,4 +9,4 @@ Currently making a [discord bot](https://github.com/MaxAdams0/Benrimeka-Discord)
 | C++      | ★☆☆☆☆     |
 | HTMl/CSS | ★★☆☆☆     |
 
-![coconut](coconut.jpg)
+<img src="coconut.jpg" alt="dontremovethisorgithubwilldie" width="32"/>
