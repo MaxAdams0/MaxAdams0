@@ -1,16 +1,12 @@
-### Hi there 👋
+Pronouns: He/Him<br>
+I create python scripts for fun<br>
+Currently making a [discord bot](https://github.com/MaxAdams0/Benrimeka-Discord) and [random additions](https://github.com/stars/MaxAdams0/lists/alpha-knights-repos) for FRC Team 6695's Robot<br>
 
-<!--
-**MaxAdams0/MaxAdams0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Language | Proficiency |
+| -------- | ----------- |
+| Python   | ★★★☆☆     |
+| Java     | ★☆☆☆☆     |
+| C++      | ★☆☆☆☆     |
+| HTMl/CSS | ★★☆☆☆     |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[coconut](coconut.jpg)
