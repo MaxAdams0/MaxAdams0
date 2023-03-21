@@ -1,12 +1,13 @@
 Pronouns: He/Him<br>
-I create python scripts for fun<br>
-Currently making a [discord bot](https://github.com/MaxAdams0/Benrimeka-Discord) and [random additions](https://github.com/stars/MaxAdams0/lists/alpha-knights-repos) for FRC Team 6695's Robot<br>
+I'm mostly interested in back-end design, specifically within the aerospace and gaming industries. Some of my more important projects are on this github but many are lost to time. I am a high school softmore.<br>
+Currently I am learning the Unity game engine, aiding in programming components of Alpha Knight's 2023 Robot, and creating a software guide robot for the same team. <br>
 
 | Language | Proficiency |
 | -------- | ----------- |
 | Python   | ★★★☆☆     |
-| Java     | ★☆☆☆☆     |
-| C++      | ★☆☆☆☆     |
-| HTMl/CSS | ★★☆☆☆     |
+| C++      | ★★★☆☆     |
+| Java     | ★★☆☆☆     |
+| C#       | ★★☆☆☆     |
+| HTMl/CSS | ★☆☆☆☆     |
 
 <img src="coconut.jpg" alt="dontremovethisorgithubwilldie" width="32"/>
