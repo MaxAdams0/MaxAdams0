@@ -5,9 +5,9 @@ Currently I am learning the Unity game engine, aiding in programming components 
 | Language | Proficiency |
 | -------- | ----------- |
 | Python   | ★★★☆☆     |
-| C++      | ★★★☆☆     |
-| Java     | ★★☆☆☆     |
+| C++      | ★★★★☆     |
+| Java     | ★☆☆☆☆     |
 | C#       | ★★☆☆☆     |
-| HTMl/CSS | ★☆☆☆☆     |
+| HTMl/CSS | ★★★☆☆     |
 
 <img src="coconut.jpg" alt="dontremovethisorgithubwilldie" width="32"/>
