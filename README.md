@@ -1,13 +1,14 @@
 Pronouns: He/Him<br>
-I'm mostly interested in back-end design, specifically within the aerospace and gaming industries. Some of my more important projects are on this github but many are lost to time. I am a high school softmore.<br>
-Currently I am learning the Unity game engine, aiding in programming components of Alpha Knight's 2023 Robot, and creating a software guide robot for the same team. <br>
+I'm a sophmore in high school looking to focus on back-end programming.<br>
+I am currently putting most of my effort into projects surrounding Alpha Knights, a FRC team, including builidng websites for internal use (teaching new members & logistics webpage).<br>
 
-| Language | Proficiency |
-| -------- | ----------- |
-| Python   | ★★★☆☆     |
-| C++      | ★★★★☆     |
-| Java     | ★☆☆☆☆     |
-| C#       | ★★☆☆☆     |
-| HTMl/CSS | ★★★☆☆     |
+| Language      | Proficiency    |
+| ------------- | -------------- |
+| Python        | ★★★★★★☆☆☆☆ 6/10 |
+| C++           | ★★★★★★★★☆☆ 8/10 |
+| Java          | ★★★★☆☆☆☆☆☆ 4/10 |
+| C#            | ★★★★★☆☆☆☆☆ 5/10 |
+| HTML/CSS/JS   | ★★★★★★★☆☆☆ 7/10 |
+| Rust          | -★              -1/10 |
 
 <img src="coconut.jpg" alt="dontremovethisorgithubwilldie" width="32"/>
