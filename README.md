@@ -1,14 +1,4 @@
 Pronouns: He/Him<br>
-I'm a sophmore in high school looking to focus on back-end programming.<br>
-I am currently putting most of my effort into projects surrounding Alpha Knights, a FRC team, including builidng websites for internal use (teaching new members & logistics webpage).<br>
-
-| Language      | Proficiency    |
-| ------------- | -------------- |
-| Python        | ★★★★★★☆☆☆☆ 6/10 |
-| C++           | ★★★★★★★★☆☆ 8/10 |
-| Java          | ★★★★☆☆☆☆☆☆ 4/10 |
-| C#            | ★★★★★☆☆☆☆☆ 5/10 |
-| HTML/CSS/JS   | ★★★★★★★☆☆☆ 7/10 |
-| Rust          | -★              -1/10 |
-
+I'm a (almost) junior in High School with an interest in a Computer Science (or related) major and an aerospace minor, though I am interested in game development as well. I focus most of my time on learning C++ and coding structures. My pinned repos are my most confident. <br><br>
+// DO NOT REMOVE <br>
 <img src="coconut.jpg" alt="dontremovethisorgithubwilldie" width="32"/>
