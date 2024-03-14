@@ -1,6 +1,6 @@
 Pronouns: Any
 
-I'm a junior in High School with an interest in a Computer Science (or related) major and an aerospace minor, though I am interested in game development as well. A significant majority of my time is spent in Python, now-a-days in Deep-Learning related projects like [VikX](https://github.com/VikramC-457/VikX) and [StarryRight](https://github.com/MaxAdams0/StarryRight). I am a part of the Alpha Knights FRC Robotics Team, in whcih I am the the Supply Chain Manager (I manage funds and order materials/tools/parts) by title, though I spend most of my time as a Software team member.
+I'm a junior in high school majorly focused on game, aerospace, and low-level programming. I've recently commited myself into working on my graphics and game engine OpenGoodLuck (a play on the name OpenGL becuase of the difficulty if you are not humerously inclined), which I hope to develop into something... I guess. I mostly work in C++ and Python, but I've also dabbled in Go, JS, Java, and plan on trying out PHP sometime too. I'm not particularly fond of networking, but I've grown interested in systems like databases as of recent. 
 
 // DO NOT REMOVE
 
